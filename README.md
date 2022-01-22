@@ -4,7 +4,7 @@ Neural Machine Translation (NMT) tutorial with [OpenNMT-py](https://github.com/y
 ## Fundamentals
 * Data Processing ([notebook](1-NMT-Data-Processing.ipynb), [repository](https://github.com/ymoslem/MT-Preparation))
 * NMT Model Training with OpenNMT-py ([notebook](2-NMT-Training.ipynb))
-* Translation/Inference with CTranslate3 ([code](https://gist.github.com/ymoslem/60e1d1dc44fe006f67e130b6ad703c4b))
+* Translation/Inference with CTranslate2 ([code](https://gist.github.com/ymoslem/60e1d1dc44fe006f67e130b6ad703c4b))
 * MT Evaluation with BLEU ([tutorial](https://blog.machinetranslation.io/compute-bleu-score/), [repository](https://github.com/ymoslem/MT-Evaluation))
 * Simple Web UI ([tutorial](https://blog.machinetranslation.io/nmt-web-interface/), [repository](https://github.com/ymoslem/OpenNMT-Web-Interface))
 
