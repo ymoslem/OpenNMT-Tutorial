@@ -14,5 +14,5 @@ Neural Machine Translation (NMT) tutorial with [OpenNMT-py](https://github.com/y
 * Domain Adaptation with Mixed Fine-tuning ([tutorial](https://blog.machinetranslation.io/domain-adaptation-mixed-fine-tuning/))
 * Overview of Domain Adaptation Techniques ([tutorial](https://amtaweb.org/wp-content/uploads/2020/11/NMTDomainAdaptationTechniques.pdf))
 * Multilingual Machine Translation ([tutorial](https://blog.machinetranslation.io/multilingual-nmt/))
-* Using Pre-trained NMT models with CTranslate2 ([tutorial](https://gist.github.com/ymoslem/a414a0ead0d3e50f4d7ff7110b1d1c0d))
+* Using Pre-trained NMT models with CTranslate2 ([M2M-100](https://gist.github.com/ymoslem/a414a0ead0d3e50f4d7ff7110b1d1c0d) | [NLLB-200](https://github.com/ymoslem/Adaptive-MT-LLM/blob/main/MT/NLLB.ipynb))
 * Domain-Specific Text Generation for Machine Translation ([paper](https://aclanthology.org/2022.amta-research.2/) | [article](https://blog.machinetranslation.io/synthetic-data-machine-translation/) | [repository](https://github.com/ymoslem/MT-LM)
