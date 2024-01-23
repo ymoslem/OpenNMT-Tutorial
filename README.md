@@ -17,4 +17,4 @@ Neural Machine Translation (NMT) tutorial with [OpenNMT-py](https://github.com/y
 * Using Pre-trained NMT models with CTranslate2 ([M2M-100](https://gist.github.com/ymoslem/a414a0ead0d3e50f4d7ff7110b1d1c0d) | [NLLB-200](https://github.com/ymoslem/Adaptive-MT-LLM/blob/main/MT/NLLB.ipynb))
 * Domain-Specific Text Generation for Machine Translation ([paper](https://aclanthology.org/2022.amta-research.2/) | [article](https://blog.machinetranslation.io/synthetic-data-machine-translation/) | [code](https://github.com/ymoslem/MT-LM))
 * Adaptive Machine Translation with Large Language Models ([paper](https://aclanthology.org/2023.eamt-1.22/) | [code](https://github.com/ymoslem/Adaptive-MT-LLM))
-* Fine-tuning Mistral LLM for Adaptive Machine Translation ([paper](https://arxiv.org/abs/2312.12740) | [code](https://github.com/ymoslem/Adaptive-MT-LLM-Fine-tuning))
+* Fine-tuning Large Language Models for Adaptive Machine Translation ([paper](https://arxiv.org/abs/2312.12740) | [code](https://github.com/ymoslem/Adaptive-MT-LLM-Fine-tuning))
