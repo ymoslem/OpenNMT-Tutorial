@@ -1,5 +1,5 @@
 # OpenNMT-py Tutorial
-Neural Machine Translation (NMT) tutorial with [OpenNMT-py](https://github.com/ymoslem/OpenNMT-py). Data preprocessing, model training, evaluation, and deployment.
+Neural Machine Translation (NMT) tutorial with [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py). Data preprocessing, model training, evaluation, and deployment.
 
 ## Fundamentals
 * Data Processing ([notebook](1-NMT-Data-Processing.ipynb) | [code](https://github.com/ymoslem/MT-Preparation))
