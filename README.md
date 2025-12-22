@@ -22,10 +22,10 @@ Neural Machine Translation (NMT) tutorial with [OpenNMT-py](https://github.com/O
 ## Citation
 
 ```bitex
-@misc{Moslem2024-OpenNMTtutorial,
+@misc{Moslem2022-OpenNMTtutorial,
   author       = {Moslem, Yasmin},
   title        = {{OpenNMT-Tutorial: Neural Machine Translation (NMT) Tutorial}},
-  year         = {2024},
+  year         = {2022},
   publisher    = {GitHub},
   journal      = {GitHub repository},
   howpublished = {\url{https://github.com/ymoslem/OpenNMT-Tutorial}},
