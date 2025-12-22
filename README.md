@@ -18,3 +18,17 @@ Neural Machine Translation (NMT) tutorial with [OpenNMT-py](https://github.com/O
 * Domain-Specific Text Generation for Machine Translation ([paper](https://aclanthology.org/2022.amta-research.2/) | [article](https://blog.machinetranslation.io/synthetic-data-machine-translation/) | [code](https://github.com/ymoslem/MT-LM))
 * Adaptive Machine Translation with Large Language Models ([paper](https://aclanthology.org/2023.eamt-1.22/) | [code](https://github.com/ymoslem/Adaptive-MT-LLM))
 * Fine-tuning Large Language Models for Adaptive Machine Translation ([paper](https://arxiv.org/abs/2312.12740) | [code](https://github.com/ymoslem/Adaptive-MT-LLM-Fine-tuning))
+
+## Citation
+
+```bitex
+@misc{Moslem2024-OpenNMTtutorial,
+  author       = {Moslem, Yasmin},
+  title        = {{OpenNMT-Tutorial: Neural Machine Translation (NMT) Tutorial}},
+  year         = {2024},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/ymoslem/OpenNMT-Tutorial}},
+  note         = {Data preprocessing, model training, evaluation, and deployment}
+}
+```
