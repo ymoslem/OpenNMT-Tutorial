@@ -19,16 +19,32 @@ Neural Machine Translation (NMT) tutorial with [OpenNMT-py](https://github.com/O
 * Adaptive Machine Translation with Large Language Models ([paper](https://aclanthology.org/2023.eamt-1.22/) | [code](https://github.com/ymoslem/Adaptive-MT-LLM))
 * Fine-tuning Large Language Models for Adaptive Machine Translation ([paper](https://arxiv.org/abs/2312.12740) | [code](https://github.com/ymoslem/Adaptive-MT-LLM-Fine-tuning))
 
-## Citation
+## Citations
 
-```bitex
-@misc{Moslem2022-OpenNMTtutorial,
-  author       = {Moslem, Yasmin},
-  title        = {{OpenNMT-Tutorial: Neural Machine Translation (NMT) Tutorial}},
-  year         = {2022},
-  publisher    = {GitHub},
-  journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/ymoslem/OpenNMT-Tutorial}},
-  note         = {Data preprocessing, model training, evaluation, and deployment}
+```bibtex
+@misc{moslem-2022-OpenNMTtutorial,
+    title = "{OpenNMT-py} Tutorial: Neural Machine Translation Data Preprocessing, Model Training, and Evaluation",
+    author = "Moslem, Yasmin",
+    year = "2022",
+    publisher = "GitHub",
+    url = "https://github.com/ymoslem/OpenNMT-Tutorial",
+    note = "GitHub repository"
+}
+```
+
+```bibtex
+@inproceedings{moslem-etal-2022-domain,
+    title = "Domain-Specific Text Generation for Machine Translation",
+    author = "Moslem, Yasmin  and
+      Haque, Rejwanul  and
+      Kelleher, John  and
+      Way, Andy",
+    booktitle = "Proceedings of the 15th biennial conference of the Association for Machine Translation in the Americas (Volume 1: Research Track)",
+    month = sep,
+    year = "2022",
+    address = "Orlando, USA",
+    publisher = "Association for Machine Translation in the Americas",
+    url = "https://aclanthology.org/2022.amta-research.2",
+    pages = "14--30",
 }
 ```
