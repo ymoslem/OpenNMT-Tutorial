@@ -48,3 +48,22 @@ Neural Machine Translation (NMT) tutorial with [OpenNMT-py](https://github.com/O
     pages = "14--30",
 }
 ```
+
+```bibtex
+@inproceedings{klein-etal-2020-efficient,
+    title = "Efficient and High-Quality Neural Machine Translation with {O}pen{NMT}",
+    author = "Klein, Guillaume  and
+      Zhang, Dakun  and
+      Chouteau, Cl{\'e}ment  and
+      Crego, Josep  and
+      Senellart, Jean",
+    booktitle = "Proceedings of the Fourth Workshop on Neural Generation and Translation",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.ngt-1.25/",
+    doi = "10.18653/v1/2020.ngt-1.25",
+    pages = "211--217",
+}
+```
